@@ -14,6 +14,7 @@ public class Test6Application {
 		int y = 200;
 		int z = 300;
 		int a = 400;
+		int b = 500;
 		char c = 500;
 		SpringApplication.run(Test6Application.class, args);
 	}
